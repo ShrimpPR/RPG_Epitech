@@ -1,0 +1,11 @@
+*.vscode
+*.json
+my_rpg
+*.o
+*.a
+unit_tests
+coding-style-reports.log
+*.gcda
+*.gcno
+vgcore*
+a.out
